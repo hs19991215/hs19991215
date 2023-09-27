@@ -7,14 +7,14 @@
 
 <p align="left"> <a href="https://twitter.com/hs19991215" target="blank"><img src="https://img.shields.io/twitter/follow/hs19991215?logo=twitter&style=for-the-badge" alt="hs19991215" /></a> </p>
 
-- 💬 Ask me about **React native, HTML5, CSS3 and JavaScript**
+- 💬 Ask me about **React native, HTML5, CSS3 and JavaScript, React.JS, React Native, Node.js, Express.js, MongoDb**
 
 - 📫 How to reach me **Hs19991215@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/hs19991215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hs19991215" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/harsh-sharma-30a8161a0?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bjjcfr%2fwqtqy%2fgx%2b7753%2b1a%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harsh-sharma-30a8161a0?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bjjcfr%2fwqtqy%2fgx%2b7753%2b1a%3d%3d" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hs19991215/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harsh-sharma-30a8161a0?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bjjcfr%2fwqtqy%2fgx%2b7753%2b1a%3d%3d" height="30" width="40" /></a>
 <a href="https://instagram.com/pluviophile.riddle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pluviophile.riddle" height="30" width="40" /></a>
 </p>
 
