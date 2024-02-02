@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hs19991215" alt="hs19991215" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/hs19991215" target="blank"><img src="https://img.shields.io/twitter/follow/hs19991215?logo=twitter&style=for-the-badge" alt="hs19991215" /></a> </p>
+<p align="left"> <a href="https://twitter.com/harshsharmalive" target="blank"><img src="https://img.shields.io/twitter/follow/hs19991215?logo=twitter&style=for-the-badge" alt="hs19991215" /></a> </p>
 
 - 💬 Ask me about ** HTML5, CSS3 and JavaScript, React.JS, React Native, Node.js, Express.js, MongoDb**
 
