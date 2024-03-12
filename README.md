@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/harshsharmalive" target="blank"><img src="https://img.shields.io/twitter/follow/hs19991215?logo=twitter&style=for-the-badge" alt="hs19991215" /></a> </p>
 
-<img src="https://raw.githubusercontent.com/hs19991215/hs19991215/output/snake.svg" alt="Snake animation" />
-
 - 💬 Ask me about ** HTML5, CSS3 and JavaScript, React.JS, React Native, Node.js, Express.js, MongoDb**
 
 - 📫 How to reach me **Hs19991215@gmail.com**
